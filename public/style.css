@@ -1,0 +1,13 @@
+
+body.dark {
+  background: #0d0d0d;
+  color: #e0e0e0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 2rem;
+}
+button {
+  margin: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+}
